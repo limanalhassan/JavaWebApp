@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">my tech Technologies !</h1>
-<h2 align="center"> Welcome to my Technology.
+<h2 align="center"> Welcome to my Technology World.
 	my Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.Dev !! </h2>
 <hr>
@@ -19,6 +19,7 @@
 		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
+		Liman Alhassan
 		mt Technology, 
 		CA,USA
 		+1 437 215 2483,
