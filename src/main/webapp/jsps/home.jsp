@@ -20,9 +20,9 @@
 	</span>
 	<span style="font-weight: bold;">
 		Liman Alhassan
-		mt Technology, 
-		CA,USA
-		+1 437 215 2483,
+		Lee Technology, 
+		Manchester,UK.
+		+44 437 215 2483,
 		test@gmail.com
 		<br>
 		<a href="mailto:my@gmail.com">Mail to my Technologies</a>
@@ -32,8 +32,8 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>my Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">my Technologies</a> </small></p>
+<p align=center>Lee Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://leeman.tech/">Lee Technologies</a> </small></p>
 
 </body>
 </html>
