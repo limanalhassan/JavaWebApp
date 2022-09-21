@@ -12,7 +12,7 @@ stage('CheckoutCode'){
 }
 stage("Build"){ 
   steps{
-    common("Build")
+    common("Builds")
 }
 }
 stage("Execute SonarQube Report"){ 
