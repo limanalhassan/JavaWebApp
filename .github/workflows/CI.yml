@@ -38,10 +38,6 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-    - name: Build and push
-      uses: docker/build-push-action@v3
-      with:
-          context: .
-          file: Dockerfile
-          push: true
-          tags: user/app:latest
+    - name: build and push to dockerhub and initiate deploment
+      uses: esomore/deploy-github-action@1.0.10
+
