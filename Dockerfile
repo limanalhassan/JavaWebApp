@@ -1,3 +1,4 @@
 FROM tomee
-COPY . /usr/local/tomee/webapps/
+COPY /*.war /usr/local/tomee/webapps/
+COPY /*.jar /usr/local/tomee/webapps/
 EXPOSE 8080
